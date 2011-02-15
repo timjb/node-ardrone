@@ -1,0 +1,11 @@
+{
+  "name": "ardrone",
+  "version": "0.1.0",
+  "description": "Control your Parrot AR.Drone",
+  "author": "Tim Baumann <tim@timbaumann.info>",
+  "homepage": "https://github.com/timjb/node-ardrone/",
+  "repository": { "type": "git", "url": "https://github.com/timjb/node-ardrone.git" },
+  "main": "./lib/ardrone.js",
+  "bin": { "ardrone-test": "./bin/test.js" },
+  "scripts": { "preinstall": "node-waf configure build" }
+}
