@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/timjb/node-ardrone.png)](http://travis-ci.org/timjb/node-ardrone)
 node-ardrone
 ============
 
